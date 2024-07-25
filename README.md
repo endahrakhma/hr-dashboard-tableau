@@ -1,5 +1,3 @@
-[Dataset here](https://www.datawithbaraa.com/tableau/tableau-hr-project-thank-you/)
-
 The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
 
 ## Overview
@@ -33,3 +31,5 @@ The income analysis section should focus on salary-related metrics, including:
 
     Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
     Users should be able to filter the list based on any of the available columns.
+
+[Reference](https://www.datawithbaraa.com/tableau/tableau-hr-project-thank-you/)
